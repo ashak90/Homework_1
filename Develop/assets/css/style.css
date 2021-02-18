@@ -47,11 +47,6 @@ a {
     text-decoration: none;
 }
 
-/* Paragraph styling for the entire page */
-
-p {
-    font-size: 16px;
-}
 
 /* Hero Image Styling */
 
@@ -99,6 +94,12 @@ main {
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* Paragraph styling for the entire page */
+
+p {
+    font-size: 16px;
 }
 
 /* Aside Styling */
