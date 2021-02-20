@@ -8,9 +8,11 @@ The task in this assignment was to refractor code that was prvided to us. I comp
 
 ![Screenshot](./assets/images/horiseon.jpg)
 
-**Deployed Link**:
+**Links**:
 
 The link for the deployed site is: (https://ashak90.github.io/Homework_1/)
+
+The link for the GitHub repo is: (https://github.com/ashak90/Homework_1)
 
 
 
