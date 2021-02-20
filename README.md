@@ -1,18 +1,18 @@
 # 01 HTML CSS Git: Code Refactor
 
-## Your Task
-
 **Note**: 
+
+The task in this assignment was to refractor code that was prvided to us. I completed the assignment, including by not limited to adding the HTML Semantic elements and updating the respective CSS selectors, cleaning up the CSS file, adding alt text for the images, and updating the name of the website. 
 
 **Screenshot**: 
 
-A screenshot of the file product can be found url("../assets/images/horiseon)
+A screenshot of the final product can be found ![Screenshot](./assets/images/horiseon.jpg)
 
-An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
+**Deployed Link**:
 
-To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+The link for the deployed site is: ![Link](https://ashak90.github.io/Homework_1/)
 
-Are you ready to jump in? Here are this week's homework requirements:
+
 
 ## User Story
 
