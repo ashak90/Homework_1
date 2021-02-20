@@ -10,7 +10,7 @@ A screenshot of the final product can be found ![Screenshot](./assets/images/hor
 
 **Deployed Link**:
 
-The link for the deployed site is: ![Link](https://ashak90.github.io/Homework_1/)
+The link for the deployed site is: (https://ashak90.github.io/Homework_1/)
 
 
 
